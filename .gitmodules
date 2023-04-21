@@ -1,0 +1,4 @@
+[submodule "code/theproject"]
+	path = code/theproject
+	url = ./code/theproject
+	datalad-id = 55b6b9b4-6c77-4d9a-8f74-47347b35915e
