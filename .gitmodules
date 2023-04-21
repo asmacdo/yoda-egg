@@ -6,3 +6,7 @@
 	path = inputs/reference_data
 	url = ./inputs/reference_data
 	datalad-id = d2f9ce82-5892-487a-971d-7ee878c39864
+[submodule "inputs/i_collected_data"]
+	path = inputs/i_collected_data
+	url = ./inputs/i_collected_data
+	datalad-id = 53b82153-8796-4862-9000-ae368f73d9e7
