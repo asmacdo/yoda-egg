@@ -2,3 +2,7 @@
 	path = code/theproject
 	url = ./code/theproject
 	datalad-id = 55b6b9b4-6c77-4d9a-8f74-47347b35915e
+[submodule "inputs/reference_data"]
+	path = inputs/reference_data
+	url = ./inputs/reference_data
+	datalad-id = d2f9ce82-5892-487a-971d-7ee878c39864
